@@ -1,6 +1,6 @@
 ---
 title:  "Sudoku Solving Project"
-date:   2020-06-10 00:06:00
+date:   2020-06-14 22:46:40
 categories:
 - Programming
 - 2020 Project
