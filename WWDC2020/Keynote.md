@@ -20,6 +20,7 @@ tags:
 
 # iPadOS 14
 ## Updates
+<img src="https://i.imgur.com/lPOw7x3.jpg">
 
 # macOS 11
 ## Updates
