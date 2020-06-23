@@ -17,6 +17,7 @@ tags:
 
 # iOS 14
 ## Updates
+<img src="https://i.imgur.com/HGwiuAV.jpg">
 
 # iPadOS 14
 ## Updates
@@ -24,3 +25,4 @@ tags:
 
 # macOS 11
 ## Updates
+<img src="https://i.imgur.com/1jbMjHy.jpg">
