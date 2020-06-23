@@ -1,5 +1,5 @@
 ---
-title:  "Sudoku Solving Project"
+title:  "Apple WWDC 2020"
 date:   2020-06-22 18:50:40
 categories:
 - Programming
