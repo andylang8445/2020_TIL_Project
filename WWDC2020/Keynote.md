@@ -30,7 +30,7 @@ tags:
 ## New Features
 ## Updated Features
 
-# macOS Big Sur
+# macOS 11, Big Sur
 ## Summary
 <img src="https://i.imgur.com/1jbMjHy.jpg">
 ## New Features
