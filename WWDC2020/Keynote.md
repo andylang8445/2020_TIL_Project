@@ -23,19 +23,49 @@ tags:
 <img src="https://i.imgur.com/HGwiuAV.jpg">
 ## New Features
 ## Updated Features
+## Supported Devices
+* iPhone 6S, iPhone 6S Plus and iPhone SE (First Generation)
+* iPhone 7 and iPhone 7 Plus
+* iPhone 8, iPhone 8 Plus and iPhone X
+* iPhone XR, iPhone XS and iPhone XS Max
+* iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max
+* iPhone SE (Second Generation)
 
 # iPadOS 14
 ## Summary
 <img src="https://i.imgur.com/lPOw7x3.jpg">
 ## New Features
 ## Updated Features
+## Supported Devices
+* iPad (5th Generation)
+* iPad (6th Generation)
+* iPad (7th Generation)
+* iPad Air 2
+* iPad Air (33rd Generation)
+* iPad mini 4
+* iPad mini (5th Generation)
+* iPad Pro 9.7-inch
+* iPad Pro 10.5-inch
+* iPad Pro 11-inch (1st Generation)
+* iPad Pro 11-inch (2nd Generation)
+* iPad Pro 12.9-inch (1st Generation)
+* iPad Pro 12.9-inch (2nd Generation)
+* iPad Pro 12.9-inch (3rd Generation)
+* iPad Pro 12.9-inch (4th Generation)
 
 # macOS 11, Big Sur
 ## Summary
 <img src="https://i.imgur.com/1jbMjHy.jpg">
 ## New Features
 ## Updated Features
-
+## Supported Devices
+* MacBook (20015 and later)
+* MacBook Air (2013 and later)
+* MacBook Pro (late 2013 and later)
+* Mac mini (2014 and later)
+* iMac (2014 and later)
+* iMac Pro (all models)
+* Mac Pro (2013 and later)
 
 # One More Thing
 ## Apple Silicon
