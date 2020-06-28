@@ -82,7 +82,7 @@ Users can handwrite into any text field using Apple Pencil. It automatically con
 ### Side bars and new buttons in Photo, Memo, File and more other apps
 On the newly added side bar, all the core functionality of the app is located on it. It helps to organize the materials as well. The new design is similar to the ones on macOS. To change the view options, there is a designated button on the top bar that also allows the quick changes between modes.
 ### More new feature to Siri
-* The result of Siri interaction appears on down right corner off the screen, above the siri icon
+The result of Siri interaction appears on down right corner off the screen, above the siri icon
 ### Newly designed Search
 Search screen that appears when the user flicks the screen down has been re-designed. It will not blur the background of it anymore, and will appear as an popup screen. It has become more similar to macOS's Spotlight. It also has become Universal Search as well. It can search basically everything on the iPad storage and on the web.
 ## Personal Thoughts
