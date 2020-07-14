@@ -6,11 +6,13 @@ categories:
 - 2020 Project
 - On-going Project
 - TIL
+- Computer Science
 tags:
 - C
 - Xcode
 - Algorithm
 - Grade 12
+- Computer Science
 ---
 # Overview
 * The goal of this project is to create a emulation software for Video Card
