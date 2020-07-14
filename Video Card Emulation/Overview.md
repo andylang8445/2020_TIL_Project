@@ -15,6 +15,10 @@ tags:
 # Overview
 * The goal of this project is to create a emulation software for Video Card
 
+# Planning
+## Goal of the project
+The ultimate goal of this project is being able to emulate the video card from scratch (from creation of pulse generator to displaying the image file)
+
 # Resources
 * https://www.youtube.com/watch?v=l7rce6IQDWs
 * https://www.youtube.com/watch?v=uqY3FMuMuRo
