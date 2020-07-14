@@ -1,5 +1,5 @@
 ---
-title:  "Sudoku Solving Project [Part 1]"
+title:  "Video Card Emulation"
 date:   2020-07-13 23:55:40
 categories:
 - Programming
