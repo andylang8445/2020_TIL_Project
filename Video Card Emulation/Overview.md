@@ -1,6 +1,6 @@
 ---
 title:  "Sudoku Solving Project [Part 1]"
-date:   2020-06-22 01:43:40
+date:   2020-07-13 23:55:40
 categories:
 - Programming
 - 2020 Project
