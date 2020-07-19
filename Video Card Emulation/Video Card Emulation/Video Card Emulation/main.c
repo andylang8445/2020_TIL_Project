@@ -24,6 +24,7 @@ int Pin13_HSync, Pin14_VSync;// Horizontal Sync and Vertical Sync
 const int NotConnected=-2;
 const int Grounded=-1;
 const int High_5V_DC=5;
+const int Low_Pin=-5;
 
 void initialization(){
     Pin5_GND = Pin6_RGND = Pin7_GGND = Pin8_BGND = Pin10_SGND = Grounded;
@@ -54,11 +55,41 @@ int main(int argc, const char * argv[]) {
     printf("10MHz Pulse Generator\n");
     struct timespec startx, endx;
     clock_gettime(CLOCK_MONOTONIC, &startx);
-    for(int i=0;i<1000000;i++){
-        PulseGenerator_10MHz();
+    while(1){
+        for(int i=0;i<628;i++){
+            if(i<600){//display period
+                for(int j=0;j<264;j++){
+                    PulseGenerator_10MHz();
+                    if(j<200){//display period
+                        
+                    }
+                    else if(j<210){//Front Porch
+                        
+                    }
+                    else if(j<242){//Sync Pulse
+                        
+                    }
+                    else{//Back Porch
+                        
+                    }
+                }
+            }
+            else if(i<601){//Front Porch
+                for(int j=0;j<264;j++){
+                    PulseGenerator_10MHz();
+                }
+            }
+            else if(i<605){//Sync Pulse
+                for(int j=0;j<264;j++){
+                    PulseGenerator_10MHz();
+                }
+            }
+            else{//Back Porch
+                for(int j=0;j<264;j++){
+                    PulseGenerator_10MHz();
+                }
+            }
+        }
     }
-    clock_gettime(CLOCK_MONOTONIC, &endx);
-    printf("(%d)(%d)\n",startx.tv_sec,startx.tv_nsec);
-    printf("(%d)(%d)\n",endx.tv_sec,endx.tv_nsec);
     return 0;
 }
